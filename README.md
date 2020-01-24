@@ -1,2 +1,2 @@
 # cs6350-machine-learning
-machine learning course projects and homework
+This is a machine learning library developed by Jiayi Wang for CS5350/6350 in University of Utah
