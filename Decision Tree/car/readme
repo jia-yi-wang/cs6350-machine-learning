@@ -1,0 +1,4 @@
+This folder contains data and codes for car evaluation problem.
+
+If you want to try  Gini index or majority error, just substitute function compute_information_entropy with function compute_GINI-index or compute_majority_error.
+The results show training error and test error.
