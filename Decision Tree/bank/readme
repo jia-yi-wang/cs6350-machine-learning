@@ -1,0 +1,15 @@
+This folder contains codes and data for bank prediction problem.
+
+data_process.py is used to process original data set to transform numerical values in feature to binary values.
+result:processed_train.csv,processed_test.csv
+
+fill_value.py is used to fixing unknown values with majority.
+result:fill_value_test.csv,fill_value_train.csv
+
+DecisionTree for bank.py is for problem(a).
+DecisionTree for bank-fill value.py is for problem(b).
+
+
+
+
+If you want to try  Gini index or majority error, just substitute function compute_information_entropy with function compute_GINI-index or compute_majority_error.
