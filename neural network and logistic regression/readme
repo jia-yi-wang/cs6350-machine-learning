@@ -1,0 +1,3 @@
+This folder mainly contains the codes for homework 5. MAP and MLE is the simulation of max a posterior and max likelihood. 
+Tensorflow is the neural network simulation with tensorflow.
+The other one is for backward propagation algorithm
